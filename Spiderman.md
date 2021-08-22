@@ -1,4 +1,4 @@
-# Spiderman Series
+# Spider-Man Series
 
 ### Tobey Maguire
 
