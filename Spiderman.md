@@ -1,19 +1,6 @@
-# Spiderman Series
-
-### Tobey Maguire
-
-
-
 ### Andrew Garfield
 
-
-
-
-
-### Tom Holland
-
-
-
-
-
+#### Amazing Spider-Man 1
+- Year: 2012
+- Name: Peter Benjamin Parker
 
