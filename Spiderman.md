@@ -1,16 +1,14 @@
 # Spiderman Series
 
-## Tobey Maguire
+### Tobey Maguire
 
+#### Spider-Man 1
+- Year: 2002
+- Name: Peter Benjamin Parker
 
-## Andrew Garfield
+#### Spider-Man 2
+- Name: Peter Benjamin Parker
 
-
-
-## Tom Holland
-
-
-
-
-
-
+#### Spider-Man 3
+- Year: 2007
+- Name: Peter Benjamin Parker
