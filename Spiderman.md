@@ -1,5 +1,6 @@
 # Spiderman Series
 
+<<<<<<< HEAD
 ### Tobey Maguire
 
 #### Spider-Man 1
@@ -12,4 +13,15 @@
 
 #### Spider-Man 3
 - Year: 2007
+
+
+### Andrew Garfield
+
+#### Amazing Spider-Man 1
+- Year: 2012
+- Name: Peter Benjamin Parker
+
+#### Amazing Spider-Man 2
+- Year: 2014
+>>>>>>> Andrew
 - Name: Peter Benjamin Parker
