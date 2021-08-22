@@ -1,16 +1,13 @@
 # Spiderman Series
 
-### Tobey Maguire
+## Tobey Maguire
+
+
+## Andrew Garfield
 
 
 
-### Andrew Garfield
-
-
-
-
-
-### Tom Holland
+## Tom Holland
 
 
 
