@@ -1,6 +1,6 @@
 # Fisrt Repo
 
-한 줄 요약
+My First Repository
 
 ## Requirements
 
