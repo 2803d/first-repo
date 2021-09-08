@@ -16,17 +16,24 @@
 
 # # Merge practice
 # branch : main
-# - 오후 5시 7분
+# - 오후 5시 20분
 
 def merge(a, b):
     '''
     merge function in main branch
     '''
-    a = 'main'
+    a = 'main11'
+    real = True
     b = 'main1'
     print(a+b)
+
+
+'''
+Please merge automatically please..
+'''
 
 # +
 # How to use jupytext
 # in main branch
-# practice
+# mainmainmain
+# practicett
