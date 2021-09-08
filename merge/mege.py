@@ -15,18 +15,30 @@
 # ---
 
 # # Merge practice
-# branch : main
-# - 오후 5시 7분
+# branch : M1
+# - 오후 5시 14분
 
-def merge(a, b):
+M1 = 1715
+main = False
+
+
+def merge(b, a):
     '''
-    merge function in main branch
+    merge function in M1 branch
     '''
-    a = 'main'
-    b = 'main1'
+    a = 'result3'
+    b = 'result2'
     print(a+b)
+
+
 
 # +
 # How to use jupytext
-# in main branch
+# in M1 branch
 # practice
+# modify in git bash
+# -
+
+# is it okay?
+
+# Please..
